@@ -1,12 +1,3 @@
-1. [Example](#1.index를-0-~-K-1-까지-반복시키는-경우)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-
-## Example
-## Example2
-## Third Example
-
-
 # 시언어에서 자주 쓰는 스킬에 대하여 이야기 합니다.
 
 ## 1.index를 0 ~ K-1 까지 반복시키는 경우
