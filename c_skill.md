@@ -7,6 +7,7 @@ int index = 0 ;
 index = (index +1) % K;
 ```
 
+
 ex)
 ```c
 

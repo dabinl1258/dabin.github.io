@@ -2,3 +2,5 @@
 - [c_skill](c_skill)
 
 - [언어만들기](make_lang)
+
+- [수학](math)
