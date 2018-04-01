@@ -16,7 +16,7 @@ printf("%d",strlen("hello"));
 
 ```.c
  char  a[]  = "hellow hi";
- char b[] = "hi";
+ char b[] = "w";
  printf(" a = %s  b = %s strpbrk(a,b) = %s\n",a ,b ,  strpbrk(b,a)  );
  printf("%p %p %p\n",&a ,&b ,  strpbrk(a,b)  );
 ```
