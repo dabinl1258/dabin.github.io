@@ -5,4 +5,5 @@
 ## [grey scale ](doc\greyScale\grey)
 
 
+## [compile with cmake](opencvcmake)
 ## [crulpp ](doc\install_curlpp\install_curlpp)

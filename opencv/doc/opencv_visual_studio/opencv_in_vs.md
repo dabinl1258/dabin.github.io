@@ -48,7 +48,7 @@ PATH=D:\Download\opencv\build\x64\vc15\bin;$PATH$
 
 ## 테스트 코드 실행
 ```c++
-#include <opencv2\highgui.hpp>
+#include <opencv2/highgui.hpp>
 
 int main()
 {
