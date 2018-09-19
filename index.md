@@ -13,4 +13,6 @@
 
 - [OPECV](opencv)
 
+usefull link
+[engineering mechanics](https://dabinl1258.github.io/engineering_mechanics_doc/)
 ![alt text](main.png)
