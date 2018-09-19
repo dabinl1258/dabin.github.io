@@ -38,6 +38,8 @@ $$
 G(x) = (1-\alpha)f_1(x )  + \alpha f_2(x)
 $$
 
+![](https://latex.codecogs.com/png.latex?%5Clarge%20G%28x%29%20%3D%20%281-%5Calpha%29f_1%28x%20%29%20&plus;%20%5Calpha%20f_2%28x%29)
+
 위 수식에서 G(x)는 알파 블렌딩된 이미지
 
 f는 원래의 이미지 이다.
