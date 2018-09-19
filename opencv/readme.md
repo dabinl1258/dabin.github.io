@@ -6,7 +6,7 @@
 
 ## [grey scale ](doc\greyScale\grey)
 
-## [blur](doc/blur)
+## [blur](doc/blur/blur)
 
 ## [compile with cmake](opencvcmake)
 
