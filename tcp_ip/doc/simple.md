@@ -66,7 +66,7 @@ int main(int argc , char ** argv)
 
 socket을 이용하여 소켓을 생성합니다.
 
-여기에서 AF_INET은 IPV4 주소체계 , SOCK_STEAM tcp 프로토콜입니다. tcp는 순서대로 정확히 데이터를 전송합니다.
+여기에서 AF_INET은 IPV4 주소체계 , SOCK_STREAM tcp 프로토콜입니다. tcp는 순서대로 정확히 데이터를 전송합니다.
 
 memset을 이용하여 struct sockaddr_in와 sendBuff를 0으로 초기화 시킴니다.
 
@@ -117,7 +117,7 @@ int main(int argc , char ** argv)
 		return 0;
 	}
 	
-	listenfd = socket(AF_INET, SOCK_DGRAM,0 );
+	listenfd = socket(AF_INET, SOCK_STREAM,0 );
 
 	memset(&serv_addr, 0 , sizeof(serv_addr));
 	memset(&sendBuffer , 0 , sizeof(sendBuffer));
